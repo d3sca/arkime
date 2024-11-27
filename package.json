@@ -12,7 +12,7 @@
     "@skhaz/zstd": "^1.0.21",
     "arkime-notifme-sdk": "^1.11.3",
     "async": "^3.2.6",
-    "axios": "^1.7.7",
+    "axios": "^1.7.8",
     "better-sqlite3": "^9.4.3",
     "body-parser": "^1.20.3",
     "bson": "^1.1.5",
